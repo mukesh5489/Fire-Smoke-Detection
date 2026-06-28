@@ -130,9 +130,3 @@ The following metrics and charts summarize the trained YOLOv8 model performance.
 - Bounding box and dataset distribution plots:
 
   ![BBox & Distribution](metrics/bbox_distribution.jpg)
-
-Notes:
-
-- Place your exported metric images in the `metrics/` folder with the filenames used above.
-- If you named the images differently, update the paths above or upload the files with the matching names.
-- Recommended images to include: `confusion_matrix.png`, `confusion_matrix_normalized.png`, `f1_confidence_curve.png`, `bbox_distribution.jpg`, `class_counts.jpg`.
